@@ -16,6 +16,10 @@ dist/
 .vscode/
 *.swp
 *.swo
+.classpath
+.project
+.factorypath
+.settings/
 
 # Environment
 .env
